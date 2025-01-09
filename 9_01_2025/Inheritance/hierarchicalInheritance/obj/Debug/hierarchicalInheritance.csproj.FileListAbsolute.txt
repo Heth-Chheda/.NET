@@ -1,0 +1,7 @@
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\hierarchicalInheritance\bin\Debug\hierarchicalInheritance.exe.config
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\hierarchicalInheritance\bin\Debug\hierarchicalInheritance.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\hierarchicalInheritance\bin\Debug\hierarchicalInheritance.pdb
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\hierarchicalInheritance\obj\Debug\hierarchicalInheritance.csproj.AssemblyReference.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\hierarchicalInheritance\obj\Debug\hierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\hierarchicalInheritance\obj\Debug\hierarchicalInheritance.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\hierarchicalInheritance\obj\Debug\hierarchicalInheritance.pdb

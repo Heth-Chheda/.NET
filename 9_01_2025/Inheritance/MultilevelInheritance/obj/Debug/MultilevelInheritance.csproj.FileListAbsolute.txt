@@ -1,0 +1,7 @@
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MultilevelInheritance\bin\Debug\MultilevelInheritance.exe.config
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MultilevelInheritance\bin\Debug\MultilevelInheritance.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MultilevelInheritance\bin\Debug\MultilevelInheritance.pdb
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MultilevelInheritance\obj\Debug\MultilevelInheritance.csproj.AssemblyReference.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MultilevelInheritance\obj\Debug\MultilevelInheritance.csproj.CoreCompileInputs.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MultilevelInheritance\obj\Debug\MultilevelInheritance.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MultilevelInheritance\obj\Debug\MultilevelInheritance.pdb

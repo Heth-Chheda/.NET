@@ -1,0 +1,7 @@
+D:\COMP\Desktop\Heth\Office\9_01_2025\OOPSImplementation\obj\Debug\OOPSImplementation.csproj.AssemblyReference.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\OOPSImplementation\obj\Debug\OOPSImplementation.csproj.CoreCompileInputs.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\OOPSImplementation\bin\Debug\OOPSImplementation.exe.config
+D:\COMP\Desktop\Heth\Office\9_01_2025\OOPSImplementation\bin\Debug\OOPSImplementation.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\OOPSImplementation\bin\Debug\OOPSImplementation.pdb
+D:\COMP\Desktop\Heth\Office\9_01_2025\OOPSImplementation\obj\Debug\OOPSImplementation.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\OOPSImplementation\obj\Debug\OOPSImplementation.pdb

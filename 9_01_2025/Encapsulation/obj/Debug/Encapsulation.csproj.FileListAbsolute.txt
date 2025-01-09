@@ -1,0 +1,7 @@
+D:\COMP\Desktop\Heth\Office\9_01_2025\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Encapsulation\bin\Debug\Encapsulation.exe.config
+D:\COMP\Desktop\Heth\Office\9_01_2025\Encapsulation\bin\Debug\Encapsulation.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Encapsulation\bin\Debug\Encapsulation.pdb
+D:\COMP\Desktop\Heth\Office\9_01_2025\Encapsulation\obj\Debug\Encapsulation.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Encapsulation\obj\Debug\Encapsulation.pdb

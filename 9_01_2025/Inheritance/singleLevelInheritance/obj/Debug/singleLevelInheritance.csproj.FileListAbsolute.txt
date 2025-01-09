@@ -1,0 +1,7 @@
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\singleLevelInheritance\bin\Debug\singleLevelInheritance.exe.config
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\singleLevelInheritance\bin\Debug\singleLevelInheritance.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\singleLevelInheritance\bin\Debug\singleLevelInheritance.pdb
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\singleLevelInheritance\obj\Debug\singleLevelInheritance.csproj.AssemblyReference.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\singleLevelInheritance\obj\Debug\singleLevelInheritance.csproj.CoreCompileInputs.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\singleLevelInheritance\obj\Debug\singleLevelInheritance.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\singleLevelInheritance\obj\Debug\singleLevelInheritance.pdb

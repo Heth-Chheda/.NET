@@ -1,0 +1,7 @@
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MethodOverriding\bin\Debug\MethodOverriding.exe.config
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MethodOverriding\bin\Debug\MethodOverriding.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MethodOverriding\bin\Debug\MethodOverriding.pdb
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MethodOverriding\obj\Debug\MethodOverriding.csproj.AssemblyReference.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MethodOverriding\obj\Debug\MethodOverriding.csproj.CoreCompileInputs.cache
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MethodOverriding\obj\Debug\MethodOverriding.exe
+D:\COMP\Desktop\Heth\Office\9_01_2025\Inheritance\MethodOverriding\obj\Debug\MethodOverriding.pdb
